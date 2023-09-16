@@ -14,6 +14,8 @@ This project provides a graphical user interface (GUI) for the game using Swing 
 
 ![](https://github.com/abdulhakim14/simple_snakegame_by_Java/blob/main/gamegif.gif)
 
+## To view a live example, **[click here](https://abdulhakim14.github.io/simple_snakegame_by_Java/)**
+
 ## Installation
 
 1. Clone the repository:
