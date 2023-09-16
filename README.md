@@ -19,7 +19,7 @@ This project provides a graphical user interface (GUI) for the game using Swing 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/sowndharnewbie/SnakeGame-Using-JAVA.git
+   git clone https://github.com/abdulhakim14/simple_snakegame_by_Java.git
    ```
 
 2. Open the project in your Java IDE.
