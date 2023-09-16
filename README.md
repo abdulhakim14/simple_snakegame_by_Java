@@ -12,7 +12,7 @@ This project provides a graphical user interface (GUI) for the game using Swing 
 
 ## Demo
 
-![](https://github.com/sowndharnewbie/SnakeGame-Using-JAVA/blob/master/gamegif.gif)
+![](https://github.com/abdulhakim14/simplesnakegame.git/gamegif.gif)
 
 ## Installation
 
